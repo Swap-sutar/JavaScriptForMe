@@ -49,7 +49,7 @@ handleObj(user) //object pass karun
 handleObj({    //object tayar karun 
     username:"sham",
     age:22
-})
+}) 
 
 
 // ARRAY handle in function
