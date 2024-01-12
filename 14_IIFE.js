@@ -3,7 +3,7 @@
 // application run zaly vr aaply la lagch kahi tri gosthi connection zalely havay astat 
  //example :- detabase connection, dapp run kely vr lagech metamask connection
  
- 
+  
  function chai(name){
     console.log(`${name} DB1 CONNECTED`);
  }
