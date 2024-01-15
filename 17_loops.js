@@ -52,17 +52,19 @@ for (let index = 0; index < myArr.length; index++) {
 let num = 13;
 let index = 1;
 
-while(index < 10 ) {
+while(index <= 10 ) {
     let sum = num * index;
-    console.log(`${num} X ${index} = ${sum}`);
+    // console.log(`${num} X ${index} = ${sum}`);
     index++;
     
 }
 
-let n = 11;
+let n = 12;
 let i = 1;
 do{
-    let add = n + index;
-    console.log(`${n} + ${i} = ${add}`);
+    let add = n * i;
+    // console.log(`${n} X ${i} = ${add}`);
     i++;
-} while(i < 20);
+} while(i <= 10);
+
+// 7.49
